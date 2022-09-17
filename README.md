@@ -1,5 +1,10 @@
 ### Hi there 👋
 ### Hello I am Rohan Gope.
+
+### About Me :
+● I am pursuing B.Tech in Information Technology.
+
+
 <!--
 **Darkrider0007/Darkrider0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
