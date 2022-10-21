@@ -15,25 +15,29 @@ I'm Rohan, a beginner in full stack of Web developing.
    &nbsp;&nbsp;&nbsp;&nbsp; - in the 2nd year 🎓
    
  <h3> 🔧 Tools <h3>
-     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/about/">    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a><a href="https://expressjs.com/en/guide/routing.html" alt="Express">    <img src="https://img.icons8.com/fluency/48/000000/express-js.png"  width="40" height="40"/></a>
+     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   &nbsp <a href="https://nodejs.org/en/about/">   &nbsp  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a><a href="https://expressjs.com/en/guide/routing.html" alt="Express"> &nbsp <img src="https://img.icons8.com/fluency/48/000000/express-js.png"  width="40" height="40"/></a>&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /> &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a> &nbsp
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" /> </a> &nbsp
+<a href="https://www.blender.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="blender" width="40" /> </a>
+&nbsp <a href="https://inkscape.org/learn/tutorials/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" alt="Inkscape" width="40" /> </a>
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
+<p align="center">
 <a href="https://github.com/Darkrider0007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrider0007&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkrider0007&theme=react" />
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Darkrider0007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Darkrider0007&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
+</p>
 
-<a href="https://github.com/Darkrider0007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Darkrider0007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Darkrider0007&theme=react-dark" />
 
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkrider0007&" alt="Darkrider0007" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darkrider0007" alt="Darkrider0007" /></a> </p>
 
 
