@@ -1,7 +1,7 @@
 ![Blue and Black Corporate LinkedIn Banner](https://user-images.githubusercontent.com/109970907/196489106-7527d83e-9634-401c-8a2e-4839fa2c5884.png)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/RohanGope6)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohan-gope-a96072199/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohan-gope-a96072199/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darkrider0007&label=Profile%20views&color=0e75b6&style=flat" alt="Darkrider0007" /> </p>
 
 ### Hi there 👋
 I'm Rohan, a beginner in full stack of Web developing.
@@ -29,6 +29,12 @@ I'm Rohan, a beginner in full stack of Web developing.
 <a href="https://github.com/Darkrider0007">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Darkrider0007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
+
+
+
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkrider0007&" alt="Darkrider0007" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darkrider0007" alt="Darkrider0007" /></a> </p>
 
 
 
