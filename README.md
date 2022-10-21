@@ -40,5 +40,8 @@ I'm Rohan, a beginner in full stack of Web developing.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darkrider0007" alt="Darkrider0007" /></a> </p>
 
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
