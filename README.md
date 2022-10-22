@@ -20,6 +20,8 @@ I'm Rohan, a beginner in full stack of Web developing.
 <a href="https://www.blender.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="blender" width="40" /> </a>
 &nbsp <a href="https://inkscape.org/learn/tutorials/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" alt="Inkscape" width="40" /> </a>
 
+[![@darkrider's Holopin board](https://holopin.me/darkrider)](https://holopin.io/@darkrider)
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
