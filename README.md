@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohan-gope-a96072199/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darkrider0007&label=Profile%20views&color=0e75b6&style=flat" alt="Darkrider0007" /> </p>
 
 ### Hi there 👋
-I'm Rohan, a beginner in full stack of Web developing.
+I'm Rohan, a full-stack Web developer.
 
 ### About Me :
 #### ●  I am a student . . . 
@@ -12,7 +12,7 @@ I'm Rohan, a beginner in full stack of Web developing.
    
    &nbsp;&nbsp;&nbsp;&nbsp; - studying Information Tecnology 🖥️
    
-   &nbsp;&nbsp;&nbsp;&nbsp; - in the 2nd year 🎓
+   &nbsp;&nbsp;&nbsp;&nbsp; - in the 3nd year 🎓
    
  <h3> 🔧 Tools <h3>
      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   &nbsp <a href="https://nodejs.org/en/about/">   &nbsp  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a><a href="https://expressjs.com/en/guide/routing.html" alt="Express"> &nbsp <img src="https://img.icons8.com/fluency/48/000000/express-js.png"  width="40" height="40"/></a>&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /> &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a> &nbsp
