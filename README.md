@@ -35,11 +35,8 @@ I'm Rohan, a full-stack Web developer.
 </a>
 </p>
 
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Darkrider0007&theme=react-dark" />
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Darkrider0007&theme=onedark)](https://github.com/Darkrider0007/github-profile-trophy)
         
 <h3> Hacktoberfest holopin Badges </h3>
         
