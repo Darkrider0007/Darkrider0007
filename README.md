@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohan-gope-a96072199/)<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darkrider0007&label=Profile%20views&color=0e75b6&style=flat" alt="Darkrider0007" /> </p>
 
 ### Hi there 👋
-I'm Rohan, a full-stack Web developer.
+I'm Rohan, a MERN Web developer and Python enthusiast
 
 ### About Me :
 #### ●  I am a student . . . 
