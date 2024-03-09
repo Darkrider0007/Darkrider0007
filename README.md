@@ -38,17 +38,14 @@ I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python
 
 
 ### GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanGope&show_icons=true&theme=radical)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkrider0007&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanGope&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrider0007&layout=compact&theme=radical)
 
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/RohanGope/count.svg)
+### GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkrider0007&theme=radical)](https://git.io/streak-stats)
 
-### Connect with me:
-[<img align="left" alt="RohanGope | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/rohan-gope-a96072199/)
-[<img align="left" alt="RohanGope | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/RohanGope6)
-[<img align="left" alt="RohanGope | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />](https://www.instagram.com/rohangope007/)
-[<img align="left" alt="RohanGope | Hashnode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/hashnode.svg" />](https://hashnode.com/@darkrider007)
+
+
 
