@@ -1,17 +1,54 @@
-![Blue and Black Corporate LinkedIn Banner](https://user-images.githubusercontent.com/109970907/196489106-7527d83e-9634-401c-8a2e-4839fa2c5884.png)
+<img src="./Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/RohanGope6)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohan-gope-a96072199/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/rohangope007/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://hashnode.com/@darkrider007)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/Darkrider0007)
+
 
 ### Hi there 👋
-I'm Rohan, a MERN Web developer and Python enthusiast
+I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python enthusiast, currently in my 3rd year of Information Technology at Jalpaiguri Government Engineering College.
 
-### About Me :
-#### ●  I am a student . . . 
-   &nbsp;&nbsp;&nbsp;&nbsp; - at [Jalpaiguri Government Engineering College](https://jgec.ac.in/) 🏫
-   
-   &nbsp;&nbsp;&nbsp;&nbsp; - studying Information Tecnology 🖥️
-   
-   &nbsp;&nbsp;&nbsp;&nbsp; - in the 3nd year 🎓
-   
+### About Me
+- 🔭 I’m currently working on building full-stack web applications.
+- 🌱 I’m currently learning more about Python and its applications in web development and data science.
+- 👯 I’m looking to collaborate on projects that involve innovative web technologies.
+- 💬 Ask me about MERN stack, Python, or anything related to web development!
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-gope-a96072199/) or [Twitter](https://twitter.com/RohanGope6).
+
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+
+### GitHub Stats
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanGope&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanGope&layout=compact)
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/RohanGope/count.svg)
+
+### Connect with me:
+[<img align="left" alt="RohanGope | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/rohan-gope-a96072199/)
+[<img align="left" alt="RohanGope | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/RohanGope6)
+[<img align="left" alt="RohanGope | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />](https://www.instagram.com/rohangope007/)
+[<img align="left" alt="RohanGope | Hashnode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/hashnode.svg" />](https://hashnode.com/@darkrider007)
 
