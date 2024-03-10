@@ -41,16 +41,5 @@ I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
-### GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkrider0007&show_icons=true&theme=radical)
-
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrider0007&layout=compact&theme=radical)
-
-### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darkrider0007&theme=radical)](https://git.io/streak-stats)
-
-
-
-
