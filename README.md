@@ -1,4 +1,4 @@
-<img src="./Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png">
+<img src="./Banner.png">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/RohanGope6)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rohan-gope-a96072199/)
@@ -11,9 +11,9 @@
 I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python enthusiast, currently in my 3rd year of Information Technology at Jalpaiguri Government Engineering College.
 
 ### About Me
-- 🔭 I’m currently working on building full-stack web applications.
+- 🔭 I’m currently working on building full-stack web applications.And Learning Android Application Development using React Native
 - programming languages I'm comfortable with are JavaScript, TypeScript, and Python.
-- I have experience working with React, Redux, Next.js, Node.js, Express.js, MongoDB, MySQL, and Appwrite.
+- I have experience working with React, Redux, Next.js, Node.js, Express.js, MongoDB, MySQL, React Native, Google Firebase and Appwrite.
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning more about Python and its applications in web development.
 - 👯 I’m looking to collaborate on projects that involve innovative web technologies.
@@ -26,6 +26,7 @@ I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
@@ -33,6 +34,7 @@ I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -43,3 +45,6 @@ I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrider0007&layout=compact&theme=radical)
+
+## Random Dev Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
