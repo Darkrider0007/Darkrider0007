@@ -8,7 +8,7 @@
 
 
 ### Hi there 👋
-I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python enthusiast, currently in my 3rd year of Information Technology at Jalpaiguri Government Engineering College.
+I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python enthusiast, currently in my final year of Information Technology at Jalpaiguri Government Engineering College.
 
 ### About Me
 - 🔭 I’m currently working on building full-stack web applications.And Learning Android Application Development using React Native
