@@ -8,16 +8,16 @@
 
 
 ### Hi there 👋
-I'm Rohan, a MERN (MongoDB, Express.js, React, Node.js) Web developer and Python enthusiast, currently in my final year of Information Technology at Jalpaiguri Government Engineering College.
+I'm Rohan, a Programmer.
 
 ### About Me
-- 🔭 I’m currently working on building full-stack web applications.And Learning Android Application Development using React Native
-- programming languages I'm comfortable with are JavaScript, TypeScript, and Python.
-- I have experience working with React, Redux, Next.js, Node.js, Express.js, MongoDB, MySQL, React Native, Google Firebase and Appwrite.
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning more about Python and its applications in web development.
-- 👯 I’m looking to collaborate on projects that involve innovative web technologies.
-- 💬 Ask me about MERN stack, Python, or anything related to web development!
+
+* 🔭 I’m currently working on building advanced full-stack web applications and enhancing a real-time chat app using Node.js and Socket.IO.
+* 💻 I’m proficient in JavaScript, TypeScript, Python, and C++, with hands-on experience in both frontend and backend development.
+* 🤝 I’m open to collaboration on projects that involve innovative and scalable web technologies.
+* 💬 Feel free to ask me about full-stack development, Python, real-time web applications, or anything related to modern web tech!
+* 😄 Pronouns: He/Him
+
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@darkrider007) and [Dev.to](https://dev.to/darkrider007).
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-gope-a96072199/) or [Twitter](https://twitter.com/RohanGope6).
